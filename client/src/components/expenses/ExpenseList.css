@@ -1,0 +1,15 @@
+.expense-list {
+    margin-top: 2rem;
+  }
+  
+  .expense-list h2 {
+    color: var(--primary-color);
+    margin-bottom: 1.5rem;
+  }
+  
+  .no-expenses {
+    text-align: center;
+    color: #777;
+    margin: 2rem 0;
+    font-size: 1.1rem;
+  }
