@@ -1,4 +1,3 @@
-```markdown
 # 💰 MERN Stack Expense Tracker
 
 This is a full-stack application built with the **MERN stack** (MongoDB, Express.js, React, and Node.js). It includes user authentication, expense tracking, and visualizations.
