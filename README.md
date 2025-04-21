@@ -12,7 +12,6 @@ This is a full-stack application built with the **MERN stack** (MongoDB, Express
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
